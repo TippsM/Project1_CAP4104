@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import time
 import os
+import numpy as np
 
 # Create a folder called data in the main project folder
 DATA_FOLDER = "data"
